@@ -5,3 +5,6 @@ G. Parameswara Reddy
 20A31A4436
 
 Pragati Engineering College
+
+
+https://parameswarguruguri.github.io/Data-Analysis-using-Tablue/
